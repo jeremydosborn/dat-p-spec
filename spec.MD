@@ -44,14 +44,10 @@ The private key is destroyed. Future decryption becomes impossible. Share record
 
 - Token distribution mechanism (left to implementer)
 - Specific encryption scheme (any IND-CCA2 scheme is acceptable)
-- Specific secret sharing scheme (any information-theoretically secure threshold scheme is acceptable)
+- Specific secret sharing scheme (any information-theoretically secure threshold scheme is theoretically acceptable)
 - Endpoint infrastructure and hosting
 
 ---
-
-## Trust Assumptions
-
-This protocol assumes a trusted admin who follows the protocol as specified. The admin learns aggregate results only, but this relies on the admin correctly performing key destruction and share deletion. Participant verifiability, admin-side provenance, and attestation mechanisms are not addressed in this version and may be incorporated in future revisions.
 
 ## Status and versioning
 
