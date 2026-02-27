@@ -1,5 +1,5 @@
 # dat-p: Distributed Anonymous Research Protocol
-### Specification v0.01
+### Specification v0.5
 
 **Status:** Experimental.
 **License:** Apache 2.0. No warranties expressed or implied.
