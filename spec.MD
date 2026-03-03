@@ -1,4 +1,4 @@
-# dat-p: Distributed Anonymous Research Protocol
+# dat-p: Distributed Anonymous Testimony Protocol
 ### Specification v0.5
 
 **Status:** Experimental.
