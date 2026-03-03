@@ -8,7 +8,7 @@
 
 ## What it is
 
-dat-p is a protocol for collecting anonymous responses from research participants. It is designed for any domain where honest responses depend on guaranteed anonymity — political polling, clinical research, compliance surveys, academic research, or any context where there is a gap between what participants will say publicly and what they know privately.
+dat-p is a protocol for collecting anonymous responses from research participants. It is designed for any domain where honest responses depend on guaranteed anonymity — political polling, clinical research, compliance surveys, academic research, or any context where there is a barrier between what participants will say publicly and what they know privately.
 
 ---
 
